@@ -1,0 +1,55 @@
+Documento de visão do projeto
+
+Site: Mushashi Game
+1. Justificativa do Projeto
+Possuímos hoje somente uma loja virtual, esperamos aumentar o alcance de vendas e de lucro e expandir;
+Além de ser um investimento mais prático e rápido também e uma opção segura, por conta do corona vírus, traz menos riscos tanto para o cliente quanto para o vendedor;
+2. Finalidade do Projeto
+Interface simples pratica e fácil para qual quer tipo de usuário;
+Site focado no público alvo gamer; 
+Aumentar lucro e vendas da empresa;
+Diminuir custos;
+3. Visão geral
+Layout responsivo;
+Atender as necessidades do cliente;
+Criar estrutura de código, para que o site fique funcional e seguro e prático;
+Dar assistência ao uso do site;
+4. Visão geral do produto
+Encontra um layout mais simples e atrativo, para que os clientes on-line, se adaptem e se acostumem com essa nova empresa de vendas on-line;
+O intuito do site e trazer mais segurança e expandir a linha de vendas para todo o Brasil com a mesma energia da loja presencial;
+Aplicamos habilidades UX e UI deixando o site ainda mais familiarizado com os usuários;
+Fizemos alterações ao longo do site na qual tornou um concorrente muito forte na linha de frente das grandes lojas de vendas atuais;
+5. Posicionamento no mercado
+O projeto do site foi focado no público gamer entre adolescentes de 10 a jovens de 24 anos,
+No começo da empresa loja virtual o faturamento estava indo bem até que com a pandemia as vendas caíram muito. Nós conquista vários novos clientes além de poder crescer e disputar com outras empresas de lojas gamer .
+7. Descrição da equipe desenvolvedora
+Cliente do projeto – Mushashi Game;
+Gerente de projeto –Jobson;
+Equipe do projeto – Jobson.
+8. Descrição dos clientes
+Pessoas de qualquer idade que estejam interessadas em entrar no mundo gamer ou pessoa já situadas nele.
+9. Alternativas 
+Inovação e interação do usuário com o mundo gamer através de notícias;
+Focar em agradar o usuário aceitando qualquer tipo de crítica no nosso fórum de assistência ao cliente;
+Funcionalidade especifica por página.
+10. Concorrência
+Sites e-commers que sejam do mesmo rumo de vendas gamer.
+11. Restrições do Projeto
+Pagar pelo domínio do HTML;
+Limite de orçamento;
+Alteração do site por terceiros sem autorização do vendedor.
+12. Requisitos do produto
+A empresa terá que comprar o domínio HTML;
+Produto será compatível com todos os tipos de tela;
+Requisitado 2mb de memória;
+Alto desempenho;
+Utilização de técnicas UX e UI;
+Duração de desenvolvimento do projeto 4 meses;
+Valor do projeto 3,000$ podendo ser parcelado por 3x.
+13.Definição
+A empresa Mushashi game terá inovado em seus meios de venda e alcançando clientes por todo Brasil;
+Terá mais reconhecimento e segurança.
+14. Acrônimos e abreviações
+J.
+15. Referências
+ Sites de jogos como Warframe 
